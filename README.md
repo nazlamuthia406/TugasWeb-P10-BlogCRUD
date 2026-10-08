@@ -24,7 +24,7 @@ Bonus: pencarian, soft delete, upload gambar
 
 ## Cara Menjalankan
 
-1. git clone https://github.com/nazlamuthia/TugasWeb-P10-BlogCRUD.git
+1. git clone https://github.com/nazlamuthia406/TugasWeb-P10-BlogCRUD.git
 2. composer install
 3. cp .env.example .env
 4. php artisan key:generate
